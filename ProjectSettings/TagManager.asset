@@ -13,6 +13,7 @@ TagManager:
   - ShootCollider
   - Floor
   - Flloor
+  - GameManager
   layers:
   - Default
   - TransparentFX
